@@ -12,7 +12,7 @@
       <include>true</include>
       <metadata>
         <id>local</id>
-        <url>/home/hossam/.m2/repository</url>
+        <url>C:\Users\mando/.m2/repository</url>
         <source>LOCAL</source>
       </metadata>
     </repository>

@@ -3,10 +3,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.work</groupId>
-  <artifactId>Ejara</artifactId>
+  <artifactId>Ejara2</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>Ejara</name>
+  <name>Ejara2</name>
   <description></description>
   <dependencies>
     <dependency>
@@ -44,6 +44,11 @@
       <artifactId>xstream</artifactId>
       <version>1.4.20</version>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jbpm.contrib</groupId>
+      <artifactId>pdf-workitem</artifactId>
+      <version>7.74.1.Final</version>
     </dependency>
   </dependencies>
   <build>
